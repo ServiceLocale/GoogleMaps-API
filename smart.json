@@ -1,0 +1,8 @@
+{
+  "name": "GoogleMaps-API",
+  "description": "A googlemaps server side api package wrapping around the exising npm module",
+  "homepage": "http://servicelocale.com",
+  "author": "Akshat Khatri",
+  "version": "0.1.1",
+  "git": "https://github.com/ServiceLocale/GoogleMaps-API.git"
+}

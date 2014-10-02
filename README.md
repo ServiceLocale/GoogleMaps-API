@@ -8,6 +8,10 @@ This is a fork from [ServiceLocale/GoogleMaps-API](https://github.com/ServiceLoc
 
 Which is a wrapper for [moshen/node-googlemaps](https://github.com/moshen/node-googlemaps)
 
+## Install
+
+`meteor add zeroasterisk:google-maps-server`
+
 ## Usage
 
 You can get to any of the

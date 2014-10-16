@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "googlemaps": {
+      "version": "0.1.20",
+      "dependencies": {
+        "request": {
+          "version": "2.2.9"
+        },
+        "waitress": {
+          "version": "0.1.5"
+        }
+      }
+    }
+  }
+}

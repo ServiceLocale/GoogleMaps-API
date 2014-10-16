@@ -5,7 +5,7 @@ Package.describe({
   git: 'https://github.com/ServiceLocale/GoogleMaps-API'
 });
 
-Npm.depends({'googlemaps':'0.1.9'});
+Npm.depends({'googlemaps':'0.1.20'});
 
 Package.onUse(function(api) {
   api.versionsFrom('METEOR@0.9.2');
@@ -17,6 +17,6 @@ Package.onUse(function(api) {
 
 Package.onTest(function(api) {
   api.use('tinytest');
-  api.use('servicelocale:google-maps-server');
+  api.use('servicelocale:googlemaps-api');
   api.addFiles('google-maps-server-test.js', 'server');
 });

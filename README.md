@@ -4,13 +4,11 @@ A Meteor packaged wrapper for node-googlemaps.
 
 ## Credit
 
-This is a fork from [ServiceLocale/GoogleMaps-API](https://github.com/ServiceLocale/GoogleMaps-API)
-
-Which is a wrapper for [moshen/node-googlemaps](https://github.com/moshen/node-googlemaps)
+This is a wrapper for [moshen/node-googlemaps](https://github.com/moshen/node-googlemaps)
 
 ## Install
 
-`meteor add zeroasterisk:google-maps-server`
+`meteor add servicelocale:google-maps-server`
 
 ## Usage
 
@@ -252,3 +250,7 @@ console.log(result);
   }
 ```
 
+# Contributors
+
+ - ZeroAsterisk (https://github.com/zeroasterisk)
+ - Akhatri (https://github.com/akhatri)

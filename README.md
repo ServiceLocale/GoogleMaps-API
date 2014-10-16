@@ -8,7 +8,7 @@ This is a wrapper for [moshen/node-googlemaps](https://github.com/moshen/node-go
 
 ## Install
 
-`meteor add servicelocale:google-maps-server`
+`meteor add servicelocale:googlemaps-api`
 
 ## Usage
 

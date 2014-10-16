@@ -1,6 +1,6 @@
 Package.describe({
   summary: 'Google maps for meteor',
-  version: '0.0.1',
+  version: '0.9.4',
   name: 'servicelocale:googlemaps-api',
   git: 'https://github.com/ServiceLocale/GoogleMaps-API'
 });
